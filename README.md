@@ -12,9 +12,9 @@ The following **required** functionality is completed:
 - [ ] User can show/hide details about each movie.
 - [x] User sees loading state while waiting for the API.
 - [ ] User sees an error message when there is a network error.
-- [ ] User can refresh the movie list.
-- [ ] User can search/filter the movie results via a search bar.
-- [ ] User can use the page on both desktop and mobile viewport sizes.
+- [x] User can refresh the movie list.
+- [x] User can search/filter the movie results via a search bar.
+- [x] User can use the page on both desktop and mobile viewport sizes.
 
 The following **optional** features are implemented:
 
